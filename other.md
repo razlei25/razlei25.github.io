@@ -1,1 +1,1 @@
-This is the new page
+# This is the title of the other page
