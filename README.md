@@ -3,7 +3,7 @@
 # Welcome
 ---
 
-[![My Lab](https://img.shields.io/badge/My%20Lab-ff69b4?style=for-the-badge)](https://www.forkoshlab.com/)
+[![My lab](https://img.shields.io/badge/My%20lab-ff69b4?style=for-the-badge)](https://www.forkoshlab.com/)  [![My research](https://img.shields.io/badge/My%20research-ff69b4?style=for-the-badge)](https://razlei25.github.io/research)
 
 ---
 ## About me
