@@ -8,9 +8,6 @@
 I am Raz Leibson, an MSc student at The Hebrew University of Jerusalem at [Forkosh Lab](https://www.forkoshlab.com/) for computational neuroscience. I will be updating about my research [here](https://razlei25.github.io/research).
 ---
 ## Where you can find me
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3387.059139239291!2d34.8046285!3d31.9049905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1502b6e2885db8a5%3A0x41b8addd1da33c3b!2sThe%20Robert%20H.%20Smith%20Faculty%20of%20Agriculture%2C%20Food%20and%20Environment!5e0!3m2!1sen!2sil!4v1762020665161!5m2!1sen!2sil" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -23,7 +20,6 @@ I am Raz Leibson, an MSc student at The Hebrew University of Jerusalem at [Forko
 </head>
 <body>
   <div class="map-wrap">
-    <!-- Replace the src value below with the iframe code Google Maps gives you -->
     <iframe
       src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3387.059139239291!2d34.8046285!3d31.9049905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1502b6e2885db8a5%3A0x41b8addd1da33c3b!2sThe%20Robert%20H.%20Smith%20Faculty%20of%20Agriculture%2C%20Food%20and%20Environment!5e0!3m2!1sen!2sil!4v1762020665161!5m2!1sen!2sil"
       width="800"
