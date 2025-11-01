@@ -1,10 +1,9 @@
+
+
 # Welcome
 ---
 
-[![My Lab](https://img.shields.io/badge/Open-Map-blue?style=for-the-badge&logo=googlemaps)](https://www.forkoshlab.com/)
-## <kbd>[My Lab](https://www.forkoshlab.com/)</kbd>
-<kbd>[Personal Website](https://www.forkoshlab.com/)</kbd>
-
+[![My Lab](https://img.shields.io/badge/Demo-Click%20Me-ff69b4?style=for-the-badge)](https://www.forkoshlab.com/)
 
 ---
 ## About me
