@@ -11,13 +11,14 @@ New line
 * peach
 
   ---
-
- ## Animals
+  ## Animals
 
   1. cat
   2. dog
   3. snake
   4. crab
+
+[Other page](https://razlei25.github.io/other)
 
   ---
 
