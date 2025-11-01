@@ -11,7 +11,8 @@ New line
 * peach
 
   ---
-  ## Animals
+
+## Animals
 
   1. cat
   2. dog
