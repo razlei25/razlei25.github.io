@@ -1,7 +1,7 @@
 
+---
 
 # Welcome
----
 
 [![My lab](https://img.shields.io/badge/My%20lab-ff69b4?style=for-the-badge)](https://www.forkoshlab.com/)  [![My research](https://img.shields.io/badge/My%20research-ff69b4?style=for-the-badge)](https://razlei25.github.io/research)
 
@@ -11,8 +11,6 @@ I am Raz Leibson, an MSc student at The Hebrew University of Jerusalem at [Forko
 
 ---
 ## Where you can find me
-
-
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -43,6 +41,3 @@ I am Raz Leibson, an MSc student at The Hebrew University of Jerusalem at [Forko
 * Buysse M., Binetruy F., Leibson R., Duron O. and Gottlieb Y. **Ecological Contacts and Host Specificity Promote Replacement of Nutritional Endosymbionts in Ticks.** Microb Ecol 83, 776–788 (2022). https://doi.org/10.1007/s00248-021-01773-0
 * Pollmann M., Reinisch R., von Berg L., Avidan King M., Geiselmann M., Käppeler L., Leibson R., Traub N., Steidle J. and Gottlieb Y. **Male-dependent resistance to Spiroplasma-induced cytoplasmic incompatibility.** R. Soc. Open Sci.12250545 (2025). http://doi.org/10.1098/rsos.250545
 
----
-
-![this is a big animal](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPzIYJTzuI35t3y9PCr3D6j0cNUDelYBJM6NOT77Ehr0JpCSBHiFcNqSIeeR6ghe1_ipEDXjlbWW8mg2PDEDQ4mD9BuVecKgN92AlnztiIUA)
