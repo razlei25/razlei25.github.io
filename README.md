@@ -3,7 +3,7 @@
 
 # Welcome
 
-[![My lab](https://img.shields.io/badge/My%20lab-ff69b4?style=for-the-badge)](https://www.forkoshlab.com/)  [![My research](https://img.shields.io/badge/My%20research-ff69b4?style=for-the-badge)](https://razlei25.github.io/research)  [![My lab](https://img.shields.io/badge/My%20lab-ff69b4?style=for-the-badge)]([https://www.forkoshlab.com/](https://github.com/razlei25/python-course-assignments))
+[![My lab](https://img.shields.io/badge/My%20lab-ff69b4?style=for-the-badge)](https://www.forkoshlab.com/)  [![My research](https://img.shields.io/badge/My%20research-ff69b4?style=for-the-badge)](https://razlei25.github.io/research)  [![My Python Course Assignments](https://img.shields.io/badge/My%20lab-ff69b4?style=for-the-badge)]([https://www.forkoshlab.com/](https://github.com/razlei25/python-course-assignments))
 
 
 ---
