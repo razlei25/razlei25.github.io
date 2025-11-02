@@ -18,8 +18,8 @@ I am Raz Leibson, an MSc student at The Hebrew University of Jerusalem at [Forko
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Embedded Google Map</title>
   <style>
-    html,body{height:30%;margin:0}
-    .map-wrap{height:50vh;display:flex;align-items:left;justify-content:left}
+    html,body{height:50%;margin:0}
+    .map-wrap{height:30vh;display:flex;align-items:left;justify-content:left}
   </style>
 </head>
 <body>
@@ -41,4 +41,8 @@ I am Raz Leibson, an MSc student at The Hebrew University of Jerusalem at [Forko
 ## Contributions
 * Buysse M., Binetruy F., Leibson R., Duron O. and Gottlieb Y. **Ecological Contacts and Host Specificity Promote Replacement of Nutritional Endosymbionts in Ticks.** Microb Ecol 83, 776–788 (2022). [https://doi.org/10.1007/s00248-021-01773-0](https://doi.org/10.1007/s00248-021-01773-0)
 * Pollmann M., Reinisch R., von Berg L., Avidan King M., Geiselmann M., Käppeler L., Leibson R., Traub N., Steidle J. and Gottlieb Y. **Male-dependent resistance to Spiroplasma-induced cytoplasmic incompatibility.** R. Soc. Open Sci.12250545 (2025). [https://doi.org/10.1007/s00248-021-01773-0](http://doi.org/10.1098/rsos.250545)
+
+---
+# Bored? Play Snake!
+<iframe src="https://solitaires-online.com/snake/#id=46j3oh296q,no-article,no-nav,no-ads,no-feedback" title="Snake game" width="600" height="532"></iframe>
 
