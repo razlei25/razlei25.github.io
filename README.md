@@ -38,6 +38,6 @@ I am Raz Leibson, an MSc student at The Hebrew University of Jerusalem at [Forko
 
 ---
 ## Contributions
-* Buysse M., Binetruy F., Leibson R., Duron O. and Gottlieb Y. **Ecological Contacts and Host Specificity Promote Replacement of Nutritional Endosymbionts in Ticks.** Microb Ecol 83, 776–788 (2022). https://doi.org/10.1007/s00248-021-01773-0
-* Pollmann M., Reinisch R., von Berg L., Avidan King M., Geiselmann M., Käppeler L., Leibson R., Traub N., Steidle J. and Gottlieb Y. **Male-dependent resistance to Spiroplasma-induced cytoplasmic incompatibility.** R. Soc. Open Sci.12250545 (2025). http://doi.org/10.1098/rsos.250545
+* Buysse M., Binetruy F., Leibson R., Duron O. and Gottlieb Y. **Ecological Contacts and Host Specificity Promote Replacement of Nutritional Endosymbionts in Ticks.** Microb Ecol 83, 776–788 (2022). [](https://doi.org/10.1007/s00248-021-01773-0)
+* Pollmann M., Reinisch R., von Berg L., Avidan King M., Geiselmann M., Käppeler L., Leibson R., Traub N., Steidle J. and Gottlieb Y. **Male-dependent resistance to Spiroplasma-induced cytoplasmic incompatibility.** R. Soc. Open Sci.12250545 (2025). [](http://doi.org/10.1098/rsos.250545)
 
