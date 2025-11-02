@@ -3,7 +3,7 @@
 
 # Welcome
 
-[![My lab](https://img.shields.io/badge/My%20lab-ff69b4?style=for-the-badge)](https://www.forkoshlab.com/)  [![My research](https://img.shields.io/badge/My%20research-ff69b4?style=for-the-badge)](https://razlei25.github.io/research)  [![My Python Course Assignments](https://img.shields.io/badge/My%20lab-ff69b4?style=for-the-badge)]([https://www.forkoshlab.com/](https://github.com/razlei25/python-course-assignments))
+[![My lab](https://img.shields.io/badge/My%20lab-ff69b4?style=for-the-badge)](https://www.forkoshlab.com/)  [![My research](https://img.shields.io/badge/My%20research-ff69b4?style=for-the-badge)](https://razlei25.github.io/research)  [![My Python Course Assignments](https://img.shields.io/badge/My%20research-ff69b4?style=for-the-badge)](https://github.com/razlei25/python-course-assignments)
 
 
 ---
@@ -19,7 +19,7 @@ I am Raz Leibson, an MSc student at The Hebrew University of Jerusalem at [Forko
   <title>Embedded Google Map</title>
   <style>
     html,body{height:50%;margin:0}
-    .map-wrap{height:30vh;display:flex;align-items:left;justify-content:left}
+    .map-wrap{height:35vh;display:flex;align-items:left;justify-content:left}
   </style>
 </head>
 <body>
