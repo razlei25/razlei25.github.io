@@ -19,7 +19,7 @@ I am Raz Leibson, an MSc student at The Hebrew University of Jerusalem at [Forko
   <title>Embedded Google Map</title>
   <style>
     html,body{height:50%;margin:0}
-    .map-wrap{height:35vh;display:flex;align-items:left;justify-content:left}
+    .map-wrap{height:35vh;display:flex;align-items:flex-start;justify-content:flex-start}
   </style>
 </head>
 <body>
@@ -36,10 +36,6 @@ I am Raz Leibson, an MSc student at The Hebrew University of Jerusalem at [Forko
   </div>
 </body>
 </html>
-
-
-
-
 
 ---
 # Contributions
