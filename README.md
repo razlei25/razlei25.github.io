@@ -18,7 +18,7 @@ I am Raz Leibson, an MSc student at The Hebrew University of Jerusalem at [Forko
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Embedded Google Map</title>
   <style>
-    html,body{height:40%;margin:0}
+    html,body{height:100%;margin:0}
     .map-wrap{height:35vh;display:flex;align-items:flex-start;justify-content:flex-start}
   </style>
 </head>
@@ -27,7 +27,7 @@ I am Raz Leibson, an MSc student at The Hebrew University of Jerusalem at [Forko
     <iframe
       src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3387.059139239291!2d34.8046285!3d31.9049905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1502b6e2885db8a5%3A0x41b8addd1da33c3b!2sThe%20Robert%20H.%20Smith%20Faculty%20of%20Agriculture%2C%20Food%20and%20Environment!5e0!3m2!1sen!2sil!4v1762020665161!5m2!1sen!2sil"
       width="400"
-      height="300"
+      height="400"
       style="border:0;"
       allowfullscreen=""
       loading="lazy"
